@@ -12,9 +12,11 @@
 	"devDependencies": {
 		"@sveltejs/vite-plugin-svelte": "*",
 		"@tsconfig/svelte": "*",
+		"rxjs": "*",
 		"sass": "*",
 		"svelte": "*",
 		"svelte-check": "*",
+		"svelte-routing": "*",
 		"tslib": "*",
 		"typescript": "*",
 		"vite": "*"
